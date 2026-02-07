@@ -3,13 +3,12 @@
 ## Emir Gençler
 
 🎓 Third-year Computer Engineering student (English-taught program)  
-🔬 Interested in Machine Learning, Computer Vision & Computational Research  
+🔬 Interested in Deep Learning, Computer Vision & Computational Research  
 🌍 Aspiring graduate student in AI / ML-related fields.
 
 ---
 
-### Academic & Research Interests
-- Machine Learning & Model Evaluation  
+### Academic & Research Interests 
 - Computer Vision (YOLO-based object detection)  
 - Computational Biology & Bioinformatics  
 - GPU-accelerated Computing
@@ -35,8 +34,7 @@
 **Programming Languages**  
 - Python, Java, C  
 
-**Machine Learning & Data Science**  
-- Supervised learning, feature selection, model evaluation  
+**Data Science**  
 - NumPy, Pandas  
 
 **Computer Vision & GPU Computing**  
