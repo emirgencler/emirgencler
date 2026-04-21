@@ -15,20 +15,6 @@
 
 ---
 
-### Research Experience
-
-**TÜBİTAK 2209-A Undergraduate Research Project** *(Submitted – Evaluation Ongoing)*  
-- Designing a machine learning–based pipeline for genomic variant filtering  
-- Performance evaluation of CPU-based vs GPU-accelerated approaches  
-- Planning an open-source implementation and academic manuscript  
-
-**TÜBİTAK 1002-A Research Project** *(In Preparation)*  
-- Developing a YOLO-based drone-assisted image analysis framework  
-- Extracting flower/weed density and spatial distribution  
-- Supporting agricultural land suitability assessment  
-
----
-
 ### Technical Skills
 
 **Programming Languages**  
