@@ -9,7 +9,7 @@
 ---
 
 ### Academic & Research Interests 
-- Computer Vision (YOLO-based object detection)  
+- Computer Vision § Deep Learning  
 - Computational Biology & Bioinformatics  
 - GPU-accelerated Computing
 
@@ -23,8 +23,7 @@
 **Data Science**  
 - NumPy, Pandas  
 
-**Computer Vision & GPU Computing**  
-- YOLO  
+**GPU Computing**  
 - RAPIDS (cuDF), CuPy, Numba CUDA  
 
 **Bioinformatics**  
