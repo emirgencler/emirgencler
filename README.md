@@ -2,7 +2,7 @@
 
 ## Emir Gençler
 
-🎓 Third-year Computer Engineering student (English-taught program)  
+🎓 Computer Engineering student (English-taught program)  
 🔬 Interested in Deep Learning, Computer Vision & Computational Research  
 🌍 Aspiring graduate student in AI / ML-related fields.
 
