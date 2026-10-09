@@ -40,7 +40,7 @@
 ### Education
 **Adana Alparslan Türkeş Science and Technology University**  
 B.Sc. in Computer Engineering *(2023 – Present)*  
-- GPA: 3.80 / 4.00  
+- GPA: 3.82 / 4.00  
 - Expected Graduation: 2027  
 
 ---
