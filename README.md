@@ -24,11 +24,11 @@
 - NumPy, Pandas  
 
 **GPU Computing**  
-- RAPIDS (cuDF), CuPy, Numba CUDA  
+- Numba CUDA, CuPy  
 
 **Bioinformatics**  
 - Genomic variant analysis & filtering  
-- ANNOVAR, VEP, PLINK  
+- VEP, PLINK  
 
 **Software & Web**  
 - ASP.NET MVC  
